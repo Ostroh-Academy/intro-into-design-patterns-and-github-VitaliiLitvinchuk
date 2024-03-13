@@ -1,6 +1,6 @@
 # __Welcome to the club, buddy__  __:shipit:__
 ## Vitalii Litvinchuk __:registered:__
-### [link](https://vitaliilitvinchuk.github.io/WebLabs)
+### [WebLabs](https://vitaliilitvinchuk.github.io/WebLabs)
 <!--
 **VitaliiLitvinchuk/VitaliiLitvinchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
